@@ -1,4 +1,4 @@
-# osons
+# Osons !
 
 Vous êtes ici, alors vous pouvez aller voir par là : 
  - [Le blog de CoopAxis](http://blog.coopaxis.fr/)
