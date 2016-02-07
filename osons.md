@@ -13,6 +13,6 @@ Romain
  
 [Me suivre sur Twitter](https://twitter.com/romain_lalande)
 
-![](http://villes.bienscommuns.org/ext/nuage_sept.png)
+![](http://villes.bienscommuns.org/ext/nuage_sept.png=638x524)
 
 
