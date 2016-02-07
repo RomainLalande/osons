@@ -1,13 +1,14 @@
 # Osons !
 
 Vous êtes ici, alors vous pouvez aller voir par là : 
- - [Le blog de CoopAxis](http://blog.coopaxis.fr/)
- - [La MultiBoiteàOutils](http://www.multibao.org/RomainLalande/Cre-sol/)
- - [Le wiki savoirscommuns](http://savoirscommuns.comptoir.net/)
- - [Le site d'Artefacts](http://artefacts.coop/)
  - [Le blog du Cré-sol](http://blog.cresol.fr/)
+ - [La MultiBoiteàOutils](http://www.multibao.org/RomainLalande/Cre-sol/)
  - [Le site de Vécam](http://vecam.org/)
+ - [Le site d'Artefacts](http://artefacts.coop/)
  - [Le Site du FunLab](http://funlab.fr/)
+ - [Le wiki savoirscommuns](http://savoirscommuns.comptoir.net/)
+ - [Le blog de CoopAxis](http://blog.coopaxis.fr/)
+
  
 [Me suivre sur Twitter](https://twitter.com/romain_lalande)
 
