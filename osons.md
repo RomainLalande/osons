@@ -11,6 +11,7 @@ Vous êtes ici, alors vous pouvez aller voir par là :
 
  
 [Me rétribuer de manière hebdomadaire avec librepay](https://liberapay.com/romainlalande/)
+
 [Me suivre sur Twitter](https://twitter.com/romain_lalande)
 
 ![](http://osons.cc/nuage.png)
