@@ -23,4 +23,7 @@ Il existe deux manières de contribuer :
  - Déposer sa contribution sur place dans la boîte "Prix libre co-working"
  - Effectuer un don hebdomadaire réccurent directement en ligne via le service libre LiberaPay [Accéder à la contribution en ligne] (https://liberapay.com/Le_Lieu_Commun/)
 
+
+## Modification de la charte
+Cette charte sera mise à jour au fur et à mesure des besoins afin de préciser les modes de gouvernance, les modalités financières et les objectifs du projet.
   
