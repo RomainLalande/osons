@@ -21,7 +21,7 @@ Le projet prend forme à travers l'utilisation d'espace auprès du Bar Bidule qu
 Le projet ne nécessite actuellement pas de financements spécifique. En revanche, une chaque utilisateur de l'espace est invité à contribuer sur la base d'un prix libre afin de faire l'acquisition du matériel nécessaire à l'accès internet dans le second bâtiment du Bar Bidule. Les sommes récoltées au delà de ces frais seront utilisés pour améliorer l'aménagement du lieu sur la base de décisions du collectif.
 Il existe deux manières de contribuer : 
  - Déposer sa contribution sur place dans la boîte "Prix libre co-working"
- - Effectuer un don hebdomadaire réccurent directement en ligne via le service libre LiberaPay [https://liberapay.com/Le_Lieu_Commun/] (Accéder à la contribution en ligne)
+ - Effectuer un don hebdomadaire réccurent directement en ligne via le service libre LiberaPay [Accéder à la contribution en ligne](https://liberapay.com/Le_Lieu_Commun/)
 
 
 ## Modification de la charte
