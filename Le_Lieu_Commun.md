@@ -13,7 +13,7 @@ L'objectif est de disposer d'un espace de travail, de réunion et de convivialit
 
 ## Activités 
 
-Le projet prend forme à travers l'utilisation d'espace auprès du Bar Bidule qui permet : 
+Le projet prend forme à travers l'utilisation d'espace mis à disposition par le Bar Bidule qui permet : 
  - De venir travailler en bénéficiant d'une connection internet au sein du bar bidule (21/22 quai Paul Bert) durant les horaires d'ouverture (Mercredi au Dimanche de 10h à 18h).
  - D'organiser des réunions en fonction des disponibilités après validation par le Bar Bidule (se rendre sur place durant les horaires d'ouvertures afin d'effectuer la demande).
  
