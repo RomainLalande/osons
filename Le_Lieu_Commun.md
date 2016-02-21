@@ -8,7 +8,7 @@ L'objectif est de disposer d'un espace de travail, de réunion et de convivialit
 
 ## Rejoindre et quitter le collectif
  - Le collectif porteur du projet est constitué des personnes abonnées à la liste de discussion lelieucommun@listes.comptoir.net .
- - Le collectif peut-être rejoins par quiconque est co-opté par un de ses membres et qui accepte la présente charte.
+ - Le collectif peut-être rejoint par quiconque est co-opté par un de ses membres et qui accepte la présente charte.
  - Le collectif peut être quitté de manière volontaire, ou de manière contrainte à la majorité des deux tiers des votants à l'occasion d'un vote de sept jours proposé sur la liste de discussion.
 
 ## Activités 
