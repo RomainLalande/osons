@@ -13,12 +13,12 @@ L'objectif est de disposer d'un espace de travail, de réunion et de convivialit
 
 ## Activités 
 
-Le projet prend forme à travers l'utilisation d'espace mis à disposition par le Bar Bidule qui permet : 
- - De venir travailler en bénéficiant d'une connection internet au sein du bar bidule (21/22 quai Paul Bert) durant les horaires d'ouverture (Mercredi au Dimanche de 10h à 18h). Prendre une boisson au bar sera fortement apprécié.
- - D'organiser des réunions en fonction des disponibilités après validation par le Bar Bidule (se rendre sur place durant les horaires d'ouvertures afin d'effectuer la demande).
+Le projet prend forme à travers l'utilisation d'espaces mis à disposition par le Bar Bidule qui permet : 
+ - De venir travailler en bénéficiant d'une connexion internet au sein du bar bidule (21/22 quai Paul Bert) durant les horaires d'ouverture (Mercredi au Dimanche de 10h à 18h). Prendre une boisson au bar sera fortement apprécié.
+ - D'organiser des réunions en fonction des disponibilités après validation par le Bar Bidule (se rendre sur place durant les horaires d'ouvertures afin de faire la demande et voir si c'est possible).
  
 ## Financement
-Le projet ne nécessite actuellement pas de financements spécifique. En revanche, chaque utilisateur de l'espace est invité à contribuer sur la base d'un prix libre afin de faire l'acquisition du matériel nécessaire à l'amélioration des conditions d'accueil dans le second bâtiment du Bar Bidule (tables, chaises, accès internet). Les sommes récoltées au delà de ces frais seront utilisées pour améliorer l'aménagement du lieu sur la base de décisions du collectif.
+Le projet ne nécessite actuellement pas de financements spécifique. En revanche, chaque utilisateur de l'espace est invité à contribuer sur la base d'un prix libre afin de faire l'acquisition du matériel nécessaire à l'amélioration des conditions d'accueil dans le second bâtiment du Bar Bidule (tables, chaises, accès internet). Les sommes récoltées au delà de ces frais seront utilisées pour améliorer l'aménagement du lieu ou contribuer aux frais de fonctionnement sur la base de décisions du collectif.
 Il existe deux manières de contribuer : 
  - Déposer sa contribution sur place dans la boîte "Prix libre co-working"
  - Effectuer un don hebdomadaire réccurent directement en ligne via le service libre LiberaPay [Accéder à la contribution en ligne](https://liberapay.com/Le_Lieu_Commun/)
