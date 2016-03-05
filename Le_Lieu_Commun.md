@@ -1,5 +1,4 @@
 # Le Lieu Commun - Charte du projet
-![Image Bar Bidule](http://osons.cc/lelieucommun/barbiduleb1.JPG)
 
 ## Finalité et objectifs
 Le Lieu Commun vise la création d'un lieu à Tours géré collectivement de manière simple et ouverte, dédié aux acteurs des Communs*. 
@@ -30,3 +29,5 @@ Cette charte sera mise à jour au fur et à mesure des besoins afin de préciser
   
 ![bar bidule](http://osons.cc/lelieucommun/barbiduleb2.JPG)
 ![bar bidule](http://osons.cc/lelieucommun/barbiduleb3.JPG)
+![Image Bar Bidule](http://osons.cc/lelieucommun/barbiduleb1.JPG)
+
