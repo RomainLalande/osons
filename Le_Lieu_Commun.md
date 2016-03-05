@@ -4,7 +4,7 @@
 Le Lieu Commun vise la création d'un lieu à Tours géré collectivement de manière simple et ouverte, dédié aux acteurs des Communs*. 
 L'objectif est de disposer d'un espace de travail, de réunion et de convivialité.
 
-**Les Communs, ce sont des ressources gérées collectivement par des communautés grâce à des règles qu'ils définissent eux-même. Des logiciels libres aux jardins partagés, de la cartographie à l'énergie renouvelable, enpassant par les connaissances et les sciences ouvertes ou les AMAPs, les "Communs" sont partout et cette dénomination peut en rappeller beaucoup d'autres (transition citoyenne, alternatives, initiatives collectives,etc.).*
+**Les Communs, ce sont des ressources gérées collectivement par des communautés grâce à des règles qu'ils définissent eux-même. Des logiciels libres aux jardins partagés, de la cartographie à l'énergie renouvelable, enpassant par les connaissances et les sciences ouvertes ou les AMAPs, les "Communs" sont partout et cette dénomination peut en rappeler beaucoup d'autres (transition citoyenne, alternatives, initiatives collectives,etc.).*
 
 ## Rejoindre et quitter le collectif
  - Le collectif porteur du projet est constitué des personnes abonnées à la liste de discussion lelieucommun@listes.comptoir.net .
