@@ -34,7 +34,7 @@ Sont autorisées à disposer des clefs les personnes ayant été co-optées et c
  - Pour Greenpeace 37 »: Marion Lethiecq
  - Pour « Convergence des services publics » : Bruno Olivier
  - Pour le « groupe local MFRB » : Mickael Lacle
-
+ 
 Si vous avez accès aux clefs et acceptez la réservation de l'espace par un tiers, n'oubliez pas de mettre à jour l'agenda partagé ! 
 
 # Ménage et règles de vie
