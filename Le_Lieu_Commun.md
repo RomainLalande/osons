@@ -16,6 +16,8 @@ Voici les modalités de réservation de la salle :
 Le lieu est mis à disposition à **prix libre**. Si vous l'utilisez, vous êtes invités à contribuer à son financement : 
  - **Vous êtes de passage** : Déposez votre contribution sur place dans le pot "Prix libre co-working" 
  - **Vous souhaitez rejoindre le collectif et êtes un co-worker régulier** : Effectuez un don hebdomadaire récurent directement en ligne via le service libre LiberaPay [Accéder à la contribution en ligne](https://liberapay.com/Le_Lieu_Commun/)
+
+ 
 A titre indicatif, les coûts mensuel de l'espace sont de 170€ (150€ de loyer chargé et 20€ d'accès internet).
 
 
