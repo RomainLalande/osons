@@ -4,9 +4,9 @@ L'espace a vocation à être géré collectivement de manière simple et ouverte
 # Accès et réservation 
 L'espace peut être réservé et utilisé par toute personne qui se reconnaît dans sa vocation.
 
-Il est accueil les travailleurs nomades la journée de 10h à 18h, du mercredi au dimanche. Pour y accéder les lundi et mardi, vérifiez qu'une ouverture est assurée sur l'[agenda](http://osons.cc/lelieucommun/agenda/) (une alternative à google est en cours de recherche).
+Il est accueil les **travailleurs nomades la journée de 10h à 18h, du mercredi au dimanche**. Pour y accéder les lundi et mardi, vérifiez qu'une ouverture est assurée sur l'[agenda](http://osons.cc/lelieucommun/agenda/) (une alternative à google est en cours de recherche).
 
-Voici les modalités de réservation de la salle : 
+**La salle de réunion peut être réservée en soirée** selon les modalités suivantes : 
  - **Pour les personnes ayant accès aux clefs **: il suffit de réserver un créneau sur l'[agenda partagé](http://osons.cc/lelieucommun/agenda/), auquel vous avez normalement accès
  - **Pour les personnes n'ayant pas accès aux clefs **: vérifiez la disponibilité de l'espace sur l'agenda, puis contactez une personne ayant accès au clef (si vous n'en connaissez pas, envoyez votre demande par mail à romainlalande@osons.cc)
 
