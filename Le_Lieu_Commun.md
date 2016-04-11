@@ -7,15 +7,15 @@ L'espace peut être réservé et utilisé par toute personne qui se reconnaît d
 Il est accueil les travailleurs nomades la journée de 10h à 18h, du mercredi au dimanche. Pour y accéder les lundi et mardi, vérifiez qu'une ouverture est assurée sur l'agenda ci-dessous (une alternative à google est en cours de recherche).
 
 Voici les modalités de réservation de la salle : 
-Pour les personnes ayant accès aux clefs : il suffit de réserver un créneau sur l'agenda partagé, auquel vous avez normalement accès
-Pour les personnes n'ayant pas accès aux clefs : vérifiez la disponibilité de l'espace sur l'agenda, puis contactez une personne ayant accès au clef (si vous n'en connaissez pas, envoyez votre demande par mail à romainlalande@osons.cc)
+ - **Pour les personnes ayant accès aux clefs **: il suffit de réserver un créneau sur l'agenda partagé, auquel vous avez normalement accès
+ - **Pour les personnes n'ayant pas accès aux clefs **: vérifiez la disponibilité de l'espace sur l'agenda, puis contactez une personne ayant accès au clef (si vous n'en connaissez pas, envoyez votre demande par mail à romainlalande@osons.cc)
 
 **>>> [Accéder à l'agenda](http://osons.cc/lelieucommun/agenda/) <<<**
 
 # Financement et tarifs
-Le lieu est mis à disposition à prix libre. Si vous l'utilisez, vous êtes invités à contribuer à son financement : 
-Vous êtes de passage : Déposez votre contribution sur place dans le pot "Prix libre co-working" 
-Vous souhaitez rejoindre le collectif et êtes un co-worker régulier : Effectuez un don hebdomadaire récurent directement en ligne via le service libre LiberaPay [Accéder à la contribution en ligne](https://liberapay.com/Le_Lieu_Commun/)
+Le lieu est mis à disposition à **prix libre**. Si vous l'utilisez, vous êtes invités à contribuer à son financement : 
+ - **Vous êtes de passage** : Déposez votre contribution sur place dans le pot "Prix libre co-working" 
+ - **Vous souhaitez rejoindre le collectif et êtes un co-worker régulier** : Effectuez un don hebdomadaire récurent directement en ligne via le service libre LiberaPay [Accéder à la contribution en ligne](https://liberapay.com/Le_Lieu_Commun/)
 A titre indicatif, les coûts mensuel de l'espace sont de 170€ (150€ de loyer chargé et 20€ d'accès internet).
 
 
