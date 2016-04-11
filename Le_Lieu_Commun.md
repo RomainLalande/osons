@@ -10,7 +10,7 @@ Voici les modalités de réservation de la salle :
  - **Pour les personnes ayant accès aux clefs **: il suffit de réserver un créneau sur l'[agenda partagé](http://osons.cc/lelieucommun/agenda/), auquel vous avez normalement accès
  - **Pour les personnes n'ayant pas accès aux clefs **: vérifiez la disponibilité de l'espace sur l'agenda, puis contactez une personne ayant accès au clef (si vous n'en connaissez pas, envoyez votre demande par mail à romainlalande@osons.cc)
 
-**>>> [Accéder à l'agenda](http://osons.cc/lelieucommun/agenda/) <<<**
+**[Accéder à l'agenda](http://osons.cc/lelieucommun/agenda/)**
 
 # Financement et tarifs
 Le lieu est mis à disposition à **prix libre**. Si vous l'utilisez, vous êtes invités à contribuer à son financement : 
